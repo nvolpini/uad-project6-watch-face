@@ -1,0 +1,8 @@
+<resources>
+	<string name="app_name">Sunshine Wearable</string>
+	<string name="message">Watch face tapped</string>
+	<string name="my_digital_name">Sunshine NV</string>
+	<string name="temperature_text" translatable="false">%1$dº %2$dº</string>
+	<string name="please_sync_sunshine">Please, sync Sunshine!</string>
+
+</resources>
